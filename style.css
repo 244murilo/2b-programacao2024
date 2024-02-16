@@ -1,4 +1,9 @@
-header {
+.cabecalho {
  background-color: #0026ff;
   color: #FFFFFF;
 }
+
+.cabecalho-imagem {
+    width: 20%;
+}
+
